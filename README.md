@@ -7,9 +7,6 @@ Given a list of recipes, can we link a new recipe with the existing food columns
 #### Why Machine Learning
 A lot of categories are involved in the recipe book. There are chances where new categories can be included. It will not be possible to manually arrive at these patterns for different categories on a large scale.
 
-#### Results
-* Desert Category Classification *
-
 #### Conclusion and Future Scope
 * We have successfully implemented a prototype which classifies a relevant recipe as dessert and studied the features contributing to it.
 
