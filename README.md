@@ -18,3 +18,5 @@ A lot of categories are involved in the recipe book. There are chances where new
 
 [You can acces the recipe.csv file over here] (https://drive.google.com/drive/u/0/folders/10n6xlyWosjHFHdpKqQt3-hfO9qialvML)
 
+## Flow chart diagram of the application
+![This is an image](ML_Flow_Chart.png)
